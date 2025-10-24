@@ -1,0 +1,1 @@
+     <img src="img/logotxt.png" alt="logo bistro" class="ecopng">
